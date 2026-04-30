@@ -1,5 +1,5 @@
-# LEGIT-ISH
-A mixin-based utility mod made for Weave.
+# LEGIT-ISH Fixed
+A mixin-based utility mod made for Weave 1.0.1.
 
 ### Usage
 Press `L` in-game to open the ClickGUI. 
@@ -9,7 +9,7 @@ Press `L` in-game to open the ClickGUI.
 2. Place the jars in your Weave mods folder.
     1. Windows: `%userprofile%\.weave\mods`
     2. Unix: `~/.weave/mods`
-3. Download [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt/releases/latest).
+3. Download last version of [Weave](https://github.com/Weave-MC/Weave-Loader/releases)
 
 ### Building
 > [!NOTE] 
