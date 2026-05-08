@@ -1,4 +1,4 @@
-# LEGIT-ISH Fixed
+# LEGIT-ISH Fixed (soon incoming)
 A mixin-based utility mod made for Weave 1.0.1.
 
 ### Usage
